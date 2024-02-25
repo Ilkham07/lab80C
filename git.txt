@@ -1,0 +1,10 @@
+User
+<!doctype html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <title>AITU</title>
+</head>
+<body>
+  moodle astana it
+</body>
